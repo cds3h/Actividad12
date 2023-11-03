@@ -3,9 +3,9 @@ Hola,
 
 ¿Y si ahora programamos en cloud? Te comparto la siguiente bibliografía para que el siguiente programa se realicé en Azure 
 
-# https://learn.microsoft.com/es-mx/azure/developer/java/Links to an external site.
+### https://learn.microsoft.com/es-mx/azure/developer/java/Links to an external site.
 
-# https://azure.microsoft.com/es-mx/resources/developers/java/Links to an external site.
+### https://azure.microsoft.com/es-mx/resources/developers/java/Links to an external site.
 
  
 
